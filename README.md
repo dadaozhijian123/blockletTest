@@ -1,5 +1,9 @@
 # 产品需求文档
 
+## Launch on Blocklet Server
+
+[![Launch on Blocklet Server](https://assets.arcblock.io/icons/launch_on_blocklet_server.svg)](https://install.arcblock.io/launch?action=blocklet-install&meta_url=https%3A%2F%2Fgithub.com%2Fdadaozhijian123%2FblockletTest%2Freleases%2Fdownload%2Fv0.1.1%2Fblocklet.json)
+
 ## 1. 概述
 
 本产品需求文档描述了用户 Profile 信息的展示和编辑功能，旨在提供用户友好的界面以管理其个人信息。
