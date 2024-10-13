@@ -1,0 +1,47 @@
+.underlined-input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  padding: 8px 0;
+  border-radius: 0%;
+}
+
+.underlined-input:focus {
+  box-shadow: none;
+  border-bottom: 1px solid #007bff;
+}
+
+.ant-select.ant-select-outlined .ant-select-selector {
+  border: none !important;
+  /* 去掉边框 */
+  box-shadow: none !important;
+  /* 去掉阴影 */
+  outline: none !important;
+  /* 去掉聚焦时的轮廓 */
+  background: transparent;
+  /* 设置背景为透明 */
+}
+
+.ant-select.ant-select-outlined .ant-select-selector:hover,
+.ant-select.ant-select-outlined .ant-select-selector:focus {
+  border: none !important;
+  /* 确保在悬停和聚焦状态下也去掉边框 */
+  box-shadow: none !important;
+}
+
+
+.ant-modal-footer button {
+  width: 70px;
+}
+
+.row-margin {
+  margin-top: 20px;
+}
+
+.col-b {
+  text-align: right;
+}
+
+.card {
+  border-radius: '10px'
+}
